@@ -14,13 +14,15 @@ To start the app, simply run the `pomodoro.py` script:
 
 ```python pomodoro.py```
 
-The app will display a timer and two buttons: "Start" and "Stop". Click the "Start" button to begin a Pomodoro cycle, and the app will count down for 25 minutes. After 25 minutes, it will sound an alarm and prompt you to take a short break. Click the "Start" button again to begin the break, which will last for 5 minutes. The app will repeat this cycle four times before prompting you to take a longer break of 30 minutes.
-
-To stop the timer at any point, simply click the "Stop" button.
+The app will display a timer. Click the "Start" button to begin a Pomodoro cycle, and the app will count down for 25 minutes. After 25 minutes, it will sound an alarm and prompt you to take a short break. Click the "Start" button again to begin the break, which will last for 5 minutes. The app will repeat this cycle four times before prompting you to take a longer break of 30 minutes.
 
 ## Contributing
 
 This app is open-source, and contributions are welcome! If you notice a bug or would like to suggest a feature, please open an issue or submit a pull request.
+
+## TODO
+
+Add Stop button to pause during the cycles
 
 ## License
 
